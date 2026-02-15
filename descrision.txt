@@ -1,0 +1,2 @@
+dar cores aos comentarios e ao usa ctrl + u é aberto uma barra lateral para ve todos os comentarios
+[ b ] faz busca de termos de comentarios do projeto,[ a ] acessa  um comentario ,[ k ] copia um comentario,[ c ] colori um comentario com uma cor personalizada
